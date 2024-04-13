@@ -1,0 +1,248 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Test Table Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Test Table
+  m_TableCollectionNameGuidString: e2d054698821c3c4893bd01b5e39cedf
+  m_Entries:
+  - m_Id: -1
+    m_Key: CAT
+    m_Metadata:
+      m_Items: []
+  - m_Id: -2
+    m_Key: DOG
+    m_Metadata:
+      m_Items: []
+  - m_Id: 811682703749120
+    m_Key: DIALOGUE_0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 811682720526336
+    m_Key: DIALOGUE_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 811682720526337
+    m_Key: DIALOGUE_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 811682720526338
+    m_Key: DIALOGUE_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 811682720526339
+    m_Key: DIALOGUE_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 811682720526340
+    m_Key: DIALOGUE_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 811682720526341
+    m_Key: DIALOGUE_6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3633107160412160
+    m_Key: START
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3633107189772288
+    m_Key: FINISH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6071476805054464
+    m_Key: CLUE_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6071476826025984
+    m_Key: CLUE_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6071476826025985
+    m_Key: CLUE_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6071476826025986
+    m_Key: CLUE_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6071476826025987
+    m_Key: CLUE_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6071476826025988
+    m_Key: CLUE_6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6071476826025989
+    m_Key: CLUE_7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6071476826025990
+    m_Key: CLUE_8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6071476826025991
+    m_Key: CLUE_9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6073433313652736
+    m_Key: WRENCH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6073433313652737
+    m_Key: RING
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6073433313652738
+    m_Key: REVOLVER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6073433313652739
+    m_Key: BRONZE_PIN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6073433313652740
+    m_Key: KEY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6073433313652741
+    m_Key: CHIPER_SCROLL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6073433313652742
+    m_Key: LETTER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6073433313652743
+    m_Key: DOCUMENT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6073433313652744
+    m_Key: MONEY_SAFE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6467753564844032
+    m_Key: MUSIC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6467753602592768
+    m_Key: SFX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6467753602592769
+    m_Key: NEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6467753602592770
+    m_Key: FINISH_TUTORIAL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8249799777857536
+    m_Key: NAME_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6467753602592772
+    m_Key: NAME_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6467753602592773
+    m_Key: NAME_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6467753602592774
+    m_Key: NAME_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6467753602592775
+    m_Key: FOUND_CLUES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6467753602592776
+    m_Key: SCORE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6467753602592777
+    m_Key: HIGH_SCORE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6467753602592778
+    m_Key: WHO_IS_IMPOSTOR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6467753602592779
+    m_Key: VICTORY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6467753602592780
+    m_Key: LOSE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6467753602592781
+    m_Key: TUTORIAL_AGAIN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6467753602592782
+    m_Key: CONTINUE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6468944176754688
+    m_Key: RESET_PROGRESS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8249799823994880
+    m_Key: BIOGRAPHY_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8249799865937920
+    m_Key: BIOGRAPHY_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8249799865937921
+    m_Key: BIOGRAPHY_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8249799865937922
+    m_Key: BIOGRAPHY_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8249799865937923
+    m_Key: CREDITS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8249799865937924
+    m_Key: SUPPORT_US
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10454667988971520
+    m_Key: RETURN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10454668014137344
+    m_Key: ADD_REVIEW
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10454668014137345
+    m_Key: WATCH_AD
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 6041637254416039962
+  references:
+    version: 2
+    RefIds:
+    - rid: 6041637254416039962
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1706966963788

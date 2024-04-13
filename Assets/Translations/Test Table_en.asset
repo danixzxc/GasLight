@@ -1,0 +1,261 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Test Table_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: e2d054698821c3c4893bd01b5e39cedf, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: -1
+    m_Localized: cat
+    m_Metadata:
+      m_Items: []
+  - m_Id: -2
+    m_Localized: Dog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 811682703749120
+    m_Localized: Good morning, Detective!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 811682720526336
+    m_Localized: Yesterday, someone killed an employee of the local theater. Witnesses
+      say he was a friendly guy.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 811682720526337
+    m_Localized: The authorities also reported that there was some kind of power
+      failure today.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 811682720526338
+    m_Localized: You will have to memorize the sequence in which the lanterns light
+      up. The longer the sequence, the more clues you can find!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 811682720526339
+    m_Localized: When you find all the evidence, you can tell us who the killer is.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 811682720526340
+    m_Localized: You will find the found evidence in the inventory. By the way, there
+      is already information from the forensic experts about the case.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 811682720526341
+    m_Localized: In the meantime, get to know the suspects. The killer is definitely
+      one of them
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3633107160412160
+    m_Localized: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3633107189772288
+    m_Localized: Finish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6071476805054464
+    m_Localized: Today is October 13th. The victim's body was found dumped in the
+      river on the evening of October 12. The cause of death could not be determined.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6071476826025984
+    m_Localized: A key of a bizarre shape with John's prints. What can it reveal?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6071476826025985
+    m_Localized: Is Robert depicted on the badge, was he previously the idol of the
+      victim?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6071476826025986
+    m_Localized: 'The letter is encrypted: Friihh wklv Vdwxugdb? arar'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6071476826025987
+    m_Localized: A lady's pistol. Belongs to Mary
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6071476826025988
+    m_Localized: One of Robert's tools is worn far enough away from his workshop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6071476826025989
+    m_Localized: Mary's Precious Ring
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6071476826025990
+    m_Localized: 'The inscription reads: in order to read the letter, move each letter
+      3 back in the alphabet'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6071476826025991
+    m_Localized: The key opened the safe! It contains $2000, as well as a ticket
+      to another country. Where did the poor artist get all this?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6073433313652736
+    m_Localized: wrench
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6073433313652737
+    m_Localized: ring
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6073433313652738
+    m_Localized: lady's pistol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6073433313652739
+    m_Localized: bronze pin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6073433313652740
+    m_Localized: key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6073433313652741
+    m_Localized: scroll with a chiper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6073433313652742
+    m_Localized: letter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6073433313652743
+    m_Localized: document
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6073433313652744
+    m_Localized: safe with money
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6467753564844032
+    m_Localized: Music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6467753602592768
+    m_Localized: Sfx
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6467753602592769
+    m_Localized: Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6467753602592770
+    m_Localized: Finish tutorial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6467753602592775
+    m_Localized: Found clues
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6467753602592776
+    m_Localized: Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6467753602592777
+    m_Localized: Highscore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6467753602592778
+    m_Localized: Who is the murderer? Click on the photo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6467753602592779
+    m_Localized: Congratulations! You have successfully completed this task. John
+      Brown was detained by the police in time, having not managed to escape to another
+      country. Confessing in court, he said that he had received a murder order from
+      a rich acquaintance, and had to agree due to lack of money
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6467753602592781
+    m_Localized: Play tutorial again
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6467753602592782
+    m_Localized: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6468944176754688
+    m_Localized: Reset progress
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6467753602592772
+    m_Localized: John
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6467753602592773
+    m_Localized: Mary
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6467753602592774
+    m_Localized: Dorothy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6467753602592780
+    m_Localized: This character is not a killer! Go back, examine the evidence more
+      closely and try again
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8249799777857536
+    m_Localized: Robert
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8249799823994880
+    m_Localized: Mechanic, 38 years old. A former professional racer, he ended his
+      career after a serious injury. Enterprising, competitive and quick-witted
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8249799865937920
+    m_Localized: An eccentric artist, 25 years old. He lives poorly. Creative, unpredictable
+      and prone to mood swings. He is known for his controversial art.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8249799865937921
+    m_Localized: Socialite, 27 years old. She lives richly, constantly arranges extravagant
+      parties. There are rumors about her connection with the criminal world
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8249799865937922
+    m_Localized: A quiet librarian, 24 years old. She loves detective novels and
+      is interested in the occult. She often spends time researching in the library.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8249799865937923
+    m_Localized: 'We worked on the game: danixzxc - code, idea. yarikleannn - music,
+      vissa - code assistance.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8249799865937924
+    m_Localized: Support the developer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10454667988971520
+    m_Localized: Return
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10454668014137344
+    m_Localized: Add review
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10454668014137345
+    m_Localized: Watch ad
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
